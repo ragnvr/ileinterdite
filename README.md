@@ -1,5 +1,6 @@
 # ile_Interdite
 
-Problème rencontre: 
-Actualisation de l'interface graphique  --> ok
-Joueur qui s'affiche pas  --> ok
+Project inspire by the game of Matt Leacock.
+The purpose of this project is to apply software engineering and MVC architecture in Java.
+
+
